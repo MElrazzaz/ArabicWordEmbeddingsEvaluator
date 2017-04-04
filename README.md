@@ -16,7 +16,7 @@ if the results shuld be ملكة the result considered to be true
 #prereuqusits:
 to run this test you will need JRE(java) instlled on your machine
 
-#Usage
+#Usage:
 we have two formats of embeddings Glove fotmat and MOLKOVE format:
 to test Molkove format :
 1- chnage dirctory to the source code
