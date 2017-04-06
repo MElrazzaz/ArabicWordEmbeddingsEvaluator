@@ -1,4 +1,4 @@
-x# ArabicWordEmbeddingsEvaluator
+# ArabicWordEmbeddingsEvaluator
 
 This Tool was build to test the accuracy of the word embeddings on Arabic Benchmark regarding to "Methodical Evaluation of ArabicWord Embeddings" paper at ACL 2017
 
