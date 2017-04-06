@@ -26,9 +26,9 @@ The test is done by predicting the last word using the the others
 رجل to إمرأه is like ملك to ? and the word considered true if it was ملكة  in the top 'n' answers
 
 #prereuqusits:
-to run this test you will need JRE(java)1.8 + instlled on your machin,please fllow the insructions here https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html
+to run this test you will need JRE(java runt time environment) 1.8 + instlled on your machin, to install JRE or JDK please fllow the insructions here https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html.
 
-#Usage:
+#Usage: to use the jar please fllow the instrcutions below
 1- chnage dirctory to the source code
 2-type at the terminal java -jar WordEmbeddingsEvaluator.jar -e "embeddings file" -b "benchmark file" -n "no of ansewer to consider the question is crroect" -g "t for glove format f for molokov format"
 EX:
